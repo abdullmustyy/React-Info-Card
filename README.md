@@ -1,4 +1,5 @@
 # React-Info-Card
+- [Live preview ↗](https://react-info-card.netlify.app/)
 
 Quick start:
 
