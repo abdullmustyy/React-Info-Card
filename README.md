@@ -1,4 +1,4 @@
-# co4314d6ca309a1dd39029c97
+# React-Info-Card
 
 Quick start:
 
